@@ -17,3 +17,4 @@ sudo apt-get install <package name>
 |               |    Ubuntu 20.04    |    Ubuntu 21.04    |
 |:-------------:|:------------------:|:------------------:|
 | welcome2alley | :heavy_check_mark: | :white_check_mark: |
+| rencrypt      | :heavy_check_mark: | :white_check_mark: |
